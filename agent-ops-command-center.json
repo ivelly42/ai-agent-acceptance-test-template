@@ -1,0 +1,16 @@
+{
+  "name": "AI Agent Acceptance Test Template",
+  "description": "Public discovery mirror for AI-agent acceptance testing, proof gates, and Agent Ops Command Center team-license requests.",
+  "main_product": "Agent Ops Command Center",
+  "individual_price_usd": 29,
+  "team_license_price_usd": 203,
+  "acceptance_test_template": "https://ivelly42.github.io/ai-agent-acceptance-test-template/ACCEPTANCE_TEST_TEMPLATE.md",
+  "main_acceptance_test_suite": "https://ivelly42.github.io/agent-ops-command-center/ai-agent-acceptance-test-suite.md",
+  "fast_team_request": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
+  "invoice_request_packet": "https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html",
+  "buy_page": "https://ivelly42.github.io/agent-ops-command-center/buy.html",
+  "catalog": "https://ivelly42.github.io/agent-ops-command-center/catalog.json",
+  "demand_metrics": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
+  "paid_zip_public": false,
+  "revenue_rule": "Revenue is proven only by checkout, receipt, payout, or seller-dashboard evidence."
+}
