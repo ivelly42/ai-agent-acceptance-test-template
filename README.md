@@ -8,7 +8,8 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 
 - Acceptance test template: https://ivelly42.github.io/ai-agent-acceptance-test-template/ACCEPTANCE_TEST_TEMPLATE.md
 - Main acceptance test suite: https://ivelly42.github.io/agent-ops-command-center/ai-agent-acceptance-test-suite.md
-- Fast $203 team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+- Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Security review packet: https://ivelly42.github.io/agent-ops-command-center/team-security-review.html
 - Invoice request packet: https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
@@ -39,7 +40,7 @@ Use this when a buyer needs a proof-first checklist before accepting AI coding-a
 
 Open the fast team request:
 
-https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 
 Open the invoice request packet:
 
